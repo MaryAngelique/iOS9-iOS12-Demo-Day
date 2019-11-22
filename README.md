@@ -30,27 +30,27 @@
 
 1. What was your favorite feature to implement? Why?
 
-    `<Your answer here>`
+    My favorite feature is Adding a Medication. My audience ranges from young adults to 80 years old. This feature makes it easy for the users to add a medication with their proper dosages and dosage type (e.g. mL, mg, tsp, etc)
 
 2. What was your #1 obstacle or bug that you fixed? How did you fix it?
 
-    `<Your answer here>`
+    My biggest obstacle is having 50+ errors while building the app. I was able to fix it by having Google as my best friend and by asking my Team Leader. My Jonah wasa able to help me fix the bugs that I have while learning how to fix them and to prevent future mistakes.
   
 3. Share a chunk of code (or file) you're proud of and explain why.
 
-    `<Your answer here>`
+    I am proud of my MedicationController.swift file because I was able to add four components of a medication app: to create a medication, to add a medication, to delete/remove a medication, and to edit a medication. I am pround of this specific file because I worked hard on researching and studying each component, even though it looks easy.
   
 4. What is your elevator pitch? (30 second description your Grandma or a 5-year old would understand)
 
-    `<Your answer here>`
+    This app will give you the liberty to fill out your medication information manually. This app will give you the opportunity to manually add your medication name, dosage, dosage type, and the frequency as it is indicated by your doctor or the bottle's intructions. 
   
 5. What is your #1 feature?
 
-    `<Your answer here>`
+     My number one feature is viewing the medication list with just one tap. This list provides your medications together with the dosage and dosage type. This feature will be easily understood by my 9 year old brother and my 82 year old great grand mother. 
   
 6. What are you future goals?
 
-    `<Your answer here>`
+    My future goals is that I will be able to expand this app. I would like to add more features that may or may not be accessible to my little brother and my great grand mother. But these future features will be an idial features for thos who knows how to use their mobile devices.
 
 ## Required Slides (Add your Keynote to your PR)
 
