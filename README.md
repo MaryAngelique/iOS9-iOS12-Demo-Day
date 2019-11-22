@@ -50,7 +50,7 @@
   
 6. What are you future goals?
 
-    My future goals is that I will be able to expand this app. I would like to add more features that may or may not be accessible to my little brother and my great grand mother. But these future features will be an idial features for thos who knows how to use their mobile devices.
+    My future goals is that I will be able to expand this app. I would like to add more features that may or may not be accessible to my little brother and my great grand mother. But these future features will be an idial features for thos who knows how to use their mobile devices. 
 
 ## Required Slides (Add your Keynote to your PR)
 
